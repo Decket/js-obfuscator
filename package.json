@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Decket/js-obfuscator#readme",
   "dependencies": {
+    "async": "^3.2.0",
     "dateformat": "^3.0.3",
-    "javascript-obfuscator": "^1.12.1"
+    "javascript-obfuscator": "^1.12.1",
+    "path": "^0.12.7"
   }
 }
